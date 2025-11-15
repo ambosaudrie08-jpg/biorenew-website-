@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<p>
+BioRenew was founded by students from the Technological University of the Philippines
+who are passionate about sustainability and environmental engineering. This project was
+developed as part of our academic research focusing on renewable energy production using
+organic waste.
+</p>
+<p><strong>Our Vision:</strong> A future where waste becomes a valuable source of clean energy.</p>
+<p><strong>Our Objectives:</strong></p>
+<ul>
+<li>Promote sustainable waste management.</li>
+<li>Develop low-cost renewable energy solutions.</li>
+<li>Spread environmental awareness through educational outreach.</li>
+<li>Encourage innovation in green technology.</li>
+</ul>
+</section>
+
+
+<section id="project">
+<h2>Our Project</h2>
+<p>
+Our research focuses on converting organic waste into renewable energy through
+anaerobic digestion, producing biogas that can be used for cooking, electricity,
+or heating. We aim to develop an affordable model that communities can adopt.
+</p>
+<h3>Features:</h3>
+<ul>
+<li>Efficient breakdown of organic waste.</li>
+<li>Biogas generation for energy use.</li>
+<li>Environment-friendly and low-cost system design.</li>
+</ul>
+<h3>Technologies Used:</h3>
+<ul>
+<li>Biogas digester system</li>
+<li>Gas storage and pressure valves</li>
+<li>Sensors for monitoring temperature and pH</li>
+</ul>
+</section>
+
+
+<section id="gallery">
+<h2>Gallery</h2>
+<p>Images of prototypes, research sessions, and fieldwork will be displayed here.</p>
+</section>
+
+
+<section id="team">
+<h2>Meet the Team</h2>
+<div class="team-box">
+<div class="member">
+<h3>Audrie C. Ambos</h3>
+<p>Project Leader</p>
+</div>
+<div class="member">
+<h3>Raiza Anne Sayson</h3>
+<p>Project Leader</p>
+</div>
+</div>
+</section>
+
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p><strong>Email:</strong> ambosaudrie08@gmail.com</p>
+<p><strong>Email:</strong> sraizaanne@gmail.com</p>
+<p><strong>Address:</strong> Technological University of the Philippines, Philippines</p>
+</section>
+
+
+<footer>
+<p>© 2025 BioRenew Project — All Rights Reserved</p>
+</footer>
+</body>
+</html>
